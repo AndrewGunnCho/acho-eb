@@ -1,4 +1,4 @@
-### Hello friends! I am Andrew Cho
+### Hello friends! I am Andrew 👋
 
 
 ##### Let's connect!
