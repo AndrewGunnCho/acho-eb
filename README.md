@@ -41,3 +41,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+
+
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewGunnCho&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
