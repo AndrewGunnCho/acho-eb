@@ -45,5 +45,5 @@
 ----------
 
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewGunnCho&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=acho-eb&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
